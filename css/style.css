@@ -557,6 +557,14 @@ ul .other-menu-2 {
     margin-left: 110px;
     margin-top: 10px;
 }
+.ralla-img-carousel-historia{
+    background-color: orange;
+    height: 95%;
+    width: 9px;
+    float: left;
+    margin-left: 350px;
+    margin-top: 25px;
+}
 .texto-carousel{
     color: black;
     margin-left: 125px;
@@ -565,6 +573,17 @@ ul .other-menu-2 {
     text-align: left;
     font-size: 22px;
     font-family: 'Montserrat';
+}
+.li-historia-carousel{
+   margin-top: 25px;
+}
+.stile-a-historia{
+    text-decoration: none;
+    color: orange;
+}
+.stile-a-historia:hover{
+    color: #6ab077;
+    text-decoration: none;
 }
 div .border{
     border-radius: 5%;
@@ -586,6 +605,36 @@ div .border{
     margin-top: 20px;
     margin-left: 20px;
 
+}
+.raya-hori-conocenos-modal{
+    background-color: #6ab077;
+    height: 5px;
+    width: 35%;
+    margin-top: 60px;
+    margin-left: 18px;
+
+}
+.title-h2-modal{
+    color: #004b89;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 12px;
+    font-size: 40px;
+    text-align: left;
+    font-weight: 600;
+}
+.subtitulo-h6-modal{
+    color: #004b89;
+    text-align: left;
+    margin-left: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.li-modal{
+    color: #004b89;
+    margin-top: 15px;
+    font-family: 'Montserrat';
+    font-size: 15px;
 }
 .bg-main-image {
     width: 100%;

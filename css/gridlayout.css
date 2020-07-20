@@ -15,6 +15,7 @@
 .grid-item {
     width: 25%;
     vertical-align: top;
+    display: table-caption;
 }
 
 .grid-item img {
